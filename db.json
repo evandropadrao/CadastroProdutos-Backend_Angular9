@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Notebook DELL",
+      "price": 1800.5
+    },
+    {
+      "id": 2,
+      "name": "Caneta BIC Azul",
+      "price": "5.95"
+    },
+    {
+      "id": 3,
+      "name": "Samsung S10+",
+      "price": 1200
+    },
+    {
+      "name": "Mouse",
+      "price": "23.45",
+      "id": 4
+    }
+  ]
+}
